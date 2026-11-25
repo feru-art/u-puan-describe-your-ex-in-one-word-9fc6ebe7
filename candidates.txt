@@ -1,0 +1,27 @@
+Kandidat — u-puan-describe-your-ex-in-one-word-9fc6ebe7
+Juri lokal: builder, menerapkan kriteria juri berurutan (1 verdict, 2 punch, 3 surprise, 4 craft, 5 recognition).
+Tiap pasangan dinilai dua arah (A/B dibalik); skor game = rata-rata dua call (0.5 + margin/10 untuk pemenang call).
+Anchor buatan sendiri (bukan entry orang lain): ghosted, redflag, toxic, mistake, lesson, unavailable, forgettable.
+
+V1 "Placeholder" (11 karakter) — stand-in, pengisi tempat sementara, bukan yang sebenarnya.
+  Alasan: kata benda = label jelas (krit. 1 lolos); gambar "cuma pengisi" tiba tanpa caption; tapi datar, sudah terasa seperti hinaan umum.
+  Adu lokal: kalah vs Draft (m2), kalah vs Extra (m2), kalah vs Understudy (m2), kalah vs Demo (m2) → 0-4.
+  Vs anchor: menang 7-0 (ghosted/redflag/toxic/mistake/lesson/unavailable/forgettable — semua kalah di krit. 1 atau 2: verba peristiwa, klise, hinaan polos, verdict tentang hubungan bukan orang, status).
+V2 "Draft" (5 karakter) — draf kasar; versi finalnya datang belakangan.
+  Alasan: metafora proses yang bersih; "kamu cuma draf" = punch instan + janji versi final; pendek, ejaan bersih.
+  Adu lokal: menang vs Placeholder (m2), kalah vs Extra (m1), menang vs Understudy (m2), kalah vs Demo (m1) → 2-2.
+  Vs anchor: menang 7-0.
+V3 "Extra" (5 karakter) — figuran, bukan pemeran utama; juga slang "extra" = berlebihan/dramatis.
+  Alasan: DUA makna sekaligus (figuran film + terlalu banyak drama) tanpa caption — ceiling tertinggi krit. 2/3; "kamu tidak pernah jadi pemeran utama" = verdict yang tajam; pendek.
+  Adu lokal: menang vs Placeholder (m2), menang vs Draft (m1), menang vs Understudy (m2), menang vs Demo (m1) → 4-0. PEMENANG.
+  Vs anchor: menang 7-0 (margin 2-3 vs ghosted/mistake/lesson/unavailable/toxic; margin 2 vs redflag/forgettable).
+V4 "Understudy" (10 karakter) — pemeran pengganti yang tak pernah naik jadi pemeran utama.
+  Alasan: metafora peran yang hidup ("tidak pernah dapat peran utama"); tapi kata panjang, istilah teater sedikit lebih niche, punch satu lapis.
+  Adu lokal: menang vs Placeholder (m2), kalah vs Draft (m2), kalah vs Extra (m2), kalah vs Demo (m2) → 1-3.
+  Vs anchor: menang 7-0 (margin 1 vs redflag, 2 vs lainnya).
+V5 "Demo" (4 karakter) — versi trial yang kedaluwarsa.
+  Alasan: "kamu cuma trial gratis" — sangat pendek, sangat jelas, punch cepat; tapi satu lapis, kalah dari makna ganda Extra.
+  Adu lokal: menang vs Placeholder (m2), menang vs Draft (m1), menang vs Extra kalah (m1), menang vs Understudy (m2) → 3-1.
+  Vs anchor: menang 7-0 (margin 2-3).
+
+RINGKASAN: V3 "Extra" menang adu lokal 4-0 + 7-0 vs anchor. GO TERPENUHI.
